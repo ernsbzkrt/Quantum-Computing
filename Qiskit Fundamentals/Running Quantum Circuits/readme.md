@@ -4,11 +4,10 @@ This repository aims to provide a comprehensive guide to running quantum circuit
 
 ## Topics Covered
 
-1. **Using the BasicAer Simulators**
+**1.Examination of the Technical Details of the Aer Simulator**
+ 
+**2.Using the Aer Simulators**
 
-2. **Using the Aer Simulators**
-
-3. **Monitoring Job Status and Obtaining Results**
 
 ## Workflow
 
