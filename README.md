@@ -4,6 +4,14 @@ Below is a repository that documents my journey into the world of Quantum Comput
 # Contents
 In this section, we will discuss the fundamentals of theoretical quantum mechanics and quantum computing, followed by examples of coding using Qiskit. This section will be updated in the future.
 
+**The content will be foldered as follows.**
+
+            1. Qiskit Fundamentals.
+  
+            2. Quantum Information and Algorithms
+  
+            3. Additional Essential Functionality 
+
 # How to Use
 
 Feel free to explore the repository and delve into the different sections based on your interests and learning objectives. Whether you're a beginner looking to grasp the basics of quantum computing or an experienced developer seeking to enhance your skills, you'll find valuable resources and insights here.
