@@ -1,4 +1,4 @@
-# Quantum Circuits and Operations with Qiskit
+# Running Quantum Circuits  with Qiskit
 
 This repository aims to provide a comprehensive guide to running quantum circuits using Qiskit, covering the following topics:
 
