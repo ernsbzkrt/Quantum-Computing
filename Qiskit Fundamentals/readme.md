@@ -9,7 +9,6 @@ This guide is generally divided into 4 main sections:
 1. **Quantum Circuits and Operations**: Fundamental information to understand quantum circuits and operations.
 2. **Running Quantum Circuits**: Steps and processes required to run quantum circuits.
 3. **Visualizing Quantum Measurements and States**: Tools and techniques for visualizing quantum measurements and states.
-4. **Using the Transpiler**: Optimizing and transforming quantum circuits using the Qiskit transpiler.
 
 ## Contributing
 
