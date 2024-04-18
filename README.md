@@ -8,9 +8,9 @@ In this section, we will discuss the fundamentals of theoretical quantum mechani
 
             1. Qiskit Fundamentals.
   
-            2. Quantum Information and Algorithms
+            2. Quantum Information,
   
-            3. Additional Essential Functionality 
+            3. Additional Essential Functionality.
 
 # How to Use
 
